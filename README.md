@@ -1,5 +1,13 @@
 # Projects
 
+---
+
+## My Own Stuff 🛠️
+Stuff i made to make my life easier, just cause, etc.
+
+- [pygame_template](https://github.com/FINN-2005/pygame_template)
+
+---
 
 ## 🕹️ Games Collection
 A collection of small games I've built with Python and Pygame.
