@@ -1,4 +1,5 @@
 # Projects
+Stuff I made over the course of almost 3 years.
 
 ---
 
