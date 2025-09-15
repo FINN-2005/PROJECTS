@@ -7,7 +7,7 @@ Stuff I made over the course of 3+ years.
 Stuff i made to make my life easier, just cause, etc.
 
 - [pygame_template](https://github.com/FINN-2005/pygame_template)
-
+- [matrices](https://github.com/FINN-2005/matrices)
 ---
 
 ## 🕹️ Games Collection
