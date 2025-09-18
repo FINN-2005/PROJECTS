@@ -26,6 +26,7 @@ Some Simulations I made over the years (most are from the yt channel "[The Codin
 - [Pi Visualization Sim](https://github.com/FINN-2005/Pi-Visualization-Sim)
 - [Dragon Curve Sim](https://github.com/FINN-2005/Dragon-Curve-Sim)
 - [2D Sand Falling Sim](https://github.com/FINN-2005/2D-Sand-Sim)
+- [Spring Particle Sim (V1)](https://github.com/FINN-2005/Spring-Particles-Sim-V1)
 
 ## Fun
 Stuff I Did To Alleviate Boredom.
