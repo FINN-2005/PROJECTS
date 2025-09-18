@@ -24,3 +24,4 @@ A collection of small games I've built with Python and Pygame.
 Some Simulations I made over the years (most are from the yt channel "[The Coding Train](https://www.youtube.com/@TheCodingTrain))"
 
 - [Pi Visualization Sim](https://github.com/FINN-2005/Pi-Visualization-Sim)
+- [Shorts Brain Rot Cool](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
