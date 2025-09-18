@@ -24,7 +24,8 @@ A collection of small games I've built with Python and Pygame.
 Some Simulations I made over the years (most are from the yt channel "[The Coding Train](https://www.youtube.com/@TheCodingTrain)").
 
 - [Pi Visualization Sim](https://github.com/FINN-2005/Pi-Visualization-Sim)
-- [Dragon Curve](https://github.com/FINN-2005/Dragon-Curve-Sim)
+- [Dragon Curve Sim](https://github.com/FINN-2005/Dragon-Curve-Sim)
+- [2D Sand Falling Sim](https://github.com/FINN-2005/2D-Sand-Sim)
 
 ## Fun
 Stuff I Did To Alleviate Boredom.
