@@ -33,6 +33,11 @@ Stuff I Did To Alleviate Boredom.
 
 - [Shorts Brain Rot Cool](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
 
+## AI
+AI Stuff I Experimented With.
+
+- [Multi Layer Perceptron](https://github.com/FINN-2005/Multi-Layer_Perceptron)
+
 ## Math
 Projects To Understand Complex Algorythms And Functions.
 
