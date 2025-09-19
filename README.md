@@ -37,6 +37,7 @@ Stuff I Did To Alleviate Boredom.
 AI Stuff I Experimented With.
 
 - [Multi Layer Perceptron](https://github.com/FINN-2005/Multi-Layer_Perceptron)
+- [Agent Attempts](https://github.com/FINN-2005/Agent-Attempts)
 
 ## Math
 Projects To Understand Complex Algorythms And Functions.
