@@ -15,7 +15,7 @@ A collection of small games I've built with Python and Pygame.
 
 - [Flappy Bird Clone](https://github.com/FINN-2005/Flappy-Bird-Clone)
 - [Snake Clone](https://github.com/FINN-2005/Snake-Clone)
-- [Towe of Hanoi](https://github.com/FINN-2005/Tower-Of-Hanoi-Clone)  
+- [Tower of Hanoi](https://github.com/FINN-2005/Tower-Of-Hanoi-Clone)  
 - [Game of Life (V1)](https://github.com/FINN-2005/Game-Of-Life-V1)
 - [Game of Life (V2)](https://github.com/FINN-2005/Game-Of-Life-V2)
 
@@ -41,7 +41,7 @@ AI Stuff I Experimented With.
 - [ChatBot CLI](https://github.com/FINN-2005/ChatBot-CLI)
 
 ## Math
-Projects To Understand Complex Algorythms And Functions.
+Projects To Understand Complex Algorithms And Functions.
 
 - [Perlin Noise](https://github.com/FINN-2005/Perlin-Noise)
 - [Inverse Kinematics Demo (Mediocre)](https://github.com/FINN-2005/Inverse-Kinematics-Demo)
