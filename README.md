@@ -37,3 +37,4 @@ Stuff I Did To Alleviate Boredom.
 Projects To Understand Complex Algorythms And Functions.
 
 - [Perlin Noise](https://github.com/FINN-2005/Perlin-Noise)
+- [Inverse Kinematics Demo (Mediocre)](https://github.com/FINN-2005/Inverse-Kinematics-Demo)
