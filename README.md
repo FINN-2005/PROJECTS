@@ -39,6 +39,7 @@ AI Stuff I Experimented With.
 - [Multi Layer Perceptron](https://github.com/FINN-2005/Multi-Layer_Perceptron)
 - [Agent Attempts](https://github.com/FINN-2005/Agent-Attempts)
 - [ChatBot CLI](https://github.com/FINN-2005/ChatBot-CLI)
+- [ChatBot TeleBot](https://github.com/FINN-2005/ChatBot-TeleBot)
 
 ## Math
 Projects To Understand Complex Algorithms And Functions.
