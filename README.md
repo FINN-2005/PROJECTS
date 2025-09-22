@@ -19,6 +19,11 @@ A collection of small games I've built with Python and Pygame.
 - [Game of Life (V1)](https://github.com/FINN-2005/Game-Of-Life-V1)
 - [Game of Life (V2)](https://github.com/FINN-2005/Game-Of-Life-V2)
 
+## Utils
+Some one-off but usefull stuff.
+
+- [Whatsapp Chat To Json Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
+
 
 ## Simulations
 Some Simulations I made over the years (most are from the yt channel "[The Coding Train](https://www.youtube.com/@TheCodingTrain)").
