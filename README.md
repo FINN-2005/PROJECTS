@@ -52,6 +52,7 @@ Projects To Understand Complex Algorithms And Functions.
 
 - [Perlin Noise](https://github.com/FINN-2005/Perlin-Noise)
 - [Inverse Kinematics Demo (Mediocre)](https://github.com/FINN-2005/Inverse-Kinematics-Demo)
+- [Mandelbrot Set Simulation](https://github.com/FINN-2005/Mandelbrot-Sim)
 
 ## On-Going
 Projects with varying levels of completeness — some are in the earliest experimental stages, essentially skeleton frameworks or environments awaiting full feature implementation.
