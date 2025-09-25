@@ -35,9 +35,10 @@ Some Simulations I made over the years (most are from the yt channel "[The Codin
 - [CNC ToolPath Generator](https://github.com/FINN-2005/CNC-Toolpath-Gen)
 
 ## Fun
-Stuff I Did To Alleviate Boredom.
+Stuff I Did To Alleviate Boredom / Stuff I Found Fascinating.
 
 - [Shorts Brain Rot Cool](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
+- [Turing Machine](https://github.com/FINN-2005/Turing-Machine)
 
 ## AI
 AI Stuff I Experimented With.
