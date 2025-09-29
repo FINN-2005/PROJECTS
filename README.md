@@ -39,6 +39,7 @@ Stuff I Did To Alleviate Boredom / Stuff I Found Fascinating.
 
 - [Shorts Brain Rot Cool](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
 - [Turing Machine](https://github.com/FINN-2005/Turing-Machine)
+- [Attendance-Manager-CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
 
 ## AI
 AI Stuff I Experimented With.
