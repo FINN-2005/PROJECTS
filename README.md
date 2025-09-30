@@ -23,6 +23,7 @@ A collection of small games I've built with Python and Pygame.
 Some one-off but usefull stuff.
 
 - [Whatsapp Chat To Json Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
+- [Attendance-Manager-CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
 
 
 ## Simulations
@@ -39,7 +40,6 @@ Stuff I Did To Alleviate Boredom / Stuff I Found Fascinating.
 
 - [Shorts Brain Rot Cool](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
 - [Turing Machine](https://github.com/FINN-2005/Turing-Machine)
-- [Attendance-Manager-CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
 
 ## AI
 AI Stuff I Experimented With.
