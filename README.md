@@ -25,6 +25,7 @@ Some one-off but usefull stuff.
 - [Whatsapp Chat To Json Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
 - [Attendance-Manager-CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
 - [Song Downloader](https://github.com/FINN-2005/Song-Downloader)
+- [CivitAI Model Description Scraper](https://github.com/FINN-2005/CivitAI-Model-Description-Scraper)
 
 
 ## Simulations
