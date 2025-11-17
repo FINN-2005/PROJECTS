@@ -28,7 +28,8 @@ Some one-off but usefull stuff.
 - [Song Downloader](https://github.com/FINN-2005/Song-Downloader)
 - [CivitAI Model Description Scraper](https://github.com/FINN-2005/CivitAI-Model-Description-Scraper)
 - [Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
-- [Password Generator](https://github.com/FINN-2005/Password-Generator.git)
+- [Password Generator](https://github.com/FINN-2005/Password-Generator)
+- [Drifting Pygame Rect](https://github.com/FINN-2005/Drifting-Pygame-Rect)
 
 
 ## Simulations
