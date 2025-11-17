@@ -39,6 +39,7 @@ Some Simulations I made over the years (most are from the yt channel "[The Codin
 - [2D Sand Falling Sim](https://github.com/FINN-2005/2D-Sand-Sim)
 - [Spring Particle Sim (V1)](https://github.com/FINN-2005/Spring-Particles-Sim-V1)
 - [Spring Particle Sim (V2)](https://github.com/FINN-2005/Spring-Particles-Sim-V2)
+- [Spring-Particles-Physics-Collision](https://github.com/FINN-2005/Spring-Particles-Physics-Collision)
 - [CNC ToolPath Generator](https://github.com/FINN-2005/CNC-Toolpath-Gen)
 
 ## Fun
