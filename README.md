@@ -59,6 +59,7 @@ AI Stuff I Experimented With.
 - [Agent Attempts](https://github.com/FINN-2005/Agent-Attempts)
 - [ChatBot CLI](https://github.com/FINN-2005/ChatBot-CLI)
 - [ChatBot TeleBot](https://github.com/FINN-2005/ChatBot-TeleBot)
+- [Bigram Model](https://github.com/FINN-2005/Bigram-Model)
 
 ## Math
 Projects To Understand Complex Algorithms And Functions.
