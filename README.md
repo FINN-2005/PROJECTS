@@ -28,7 +28,7 @@ Some one-off but usefull stuff.
 - [Song Downloader](https://github.com/FINN-2005/Song-Downloader)
 - [CivitAI Model Description Scraper](https://github.com/FINN-2005/CivitAI-Model-Description-Scraper)
 - [Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
-- [Password Generator](https://github.com/FINN-2005/Password-Generator)
+- [Password Generator](https://github.com/FINN-2005/Password-Generator.git)
 
 
 ## Simulations
@@ -63,6 +63,11 @@ Projects To Understand Complex Algorithms And Functions.
 - [Mandelbrot Set Simulation](https://github.com/FINN-2005/Mandelbrot-Sim)
 - [Wave Function Collapse (Tiled)](https://github.com/FINN-2005/Wave-Function-Collapse-Tiled)
 - [Wave Function Collapse (Overlapping)](https://github.com/FINN-2005/Wave-Function-Collapse-Overlapping)
+
+## Renderers
+Many a pipelines I've made over the years.
+
+- [Software Pixel Renderer](https://github.com/FINN-2005/Software-Pixel-Renderer)
 
 ## On-Going
 Projects with varying levels of completeness — some are in the earliest experimental stages, essentially skeleton frameworks or environments awaiting full feature implementation.
