@@ -27,6 +27,7 @@ Some one-off but usefull stuff.
 - [Attendance-Manager-CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
 - [Song Downloader](https://github.com/FINN-2005/Song-Downloader)
 - [CivitAI Model Description Scraper](https://github.com/FINN-2005/CivitAI-Model-Description-Scraper)
+- [Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
 
 
 ## Simulations
