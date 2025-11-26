@@ -78,5 +78,6 @@ Many a pipelines I've made over the years.
 ## On-Going
 Projects with varying levels of completeness — some are in the earliest experimental stages, essentially skeleton frameworks or environments awaiting full feature implementation.
 
+- [DBMS From Scratch](https://github.com/FINN-2005/DBMS-From-Scratch)
 - [Genetic Algorithm Training Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
 - [2D Collisions](https://github.com/FINN-2005/2D-Collisions)
