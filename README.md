@@ -86,19 +86,8 @@ Some one-off but useful stuff.
 
 ---
 
-## Fun
-Stuff I did to alleviate boredom / things I found fascinating.
-
-- [Shorts Brain Rot Cool](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
-- [Turing Machine](https://github.com/FINN-2005/Turing-Machine)
-- [Stars](https://github.com/FINN-2005/Stars)
-- [Looper Pedal](https://github.com/FINN-2005/Looper-Pedal)
-
----
-
 ## On-Going
 Projects with varying levels of completeness — some are early experimental skeletons awaiting full implementation.
 
-- [DBMS From Scratch](https://github.com/FINN-2005/DBMS-From-Scratch)
 - [Genetic Algorithm Training Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
 - [2D Collisions](https://github.com/FINN-2005/2D-Collisions)
