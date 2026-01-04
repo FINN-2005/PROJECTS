@@ -91,3 +91,4 @@ Projects with varying levels of completeness — some are early experimental ske
 
 - [Genetic Algorithm Training Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
 - [2D Collisions](https://github.com/FINN-2005/2D-Collisions)
+- [Multiplayer Minigames 2D](https://github.com/FINN-2005/Multiplayer-Minigames-2D)
