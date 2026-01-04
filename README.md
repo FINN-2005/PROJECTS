@@ -83,12 +83,12 @@ Some one-off but useful stuff.
 - [Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
 - [Password Generator](https://github.com/FINN-2005/Password-Generator)
 - [Drifting Pygame Rect](https://github.com/FINN-2005/Drifting-Pygame-Rect)
+- [2D Collisions](https://github.com/FINN-2005/2D-Collisions)
 
 ---
 
-## On-Going
-Projects with varying levels of completeness — some are early experimental skeletons awaiting full implementation.
+## pygame_template V2 (in the making)
+Modules of Varying levels of completeness.
 
 - [Genetic Algorithm Training Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
-- [2D Collisions](https://github.com/FINN-2005/2D-Collisions)
 - [Multiplayer Minigames 2D](https://github.com/FINN-2005/Multiplayer-Minigames-2D)
