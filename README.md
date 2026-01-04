@@ -93,3 +93,4 @@ Modules of Varying levels of completeness.
 
 - [Genetic Algorithm Training Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
 - [Multiplayer Minigames 2D](https://github.com/FINN-2005/Multiplayer-Minigames-2D)
+- [GUI Engine](https://github.com/FINN-2005/GUI-Engine)
