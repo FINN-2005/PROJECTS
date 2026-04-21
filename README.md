@@ -29,7 +29,7 @@ Modular engine focused on systems design, rendering, and simulation architecture
 
 ### Rendering & Graphics
 - [Software Pixel Renderer](https://github.com/FINN-2005/Software-Pixel-Renderer)
-- Multiple rendering pipelines (2D/3D, rasterization, ray casting)
+- [Multiple rendering pipelines] (https://github.com/FINN-2005/Rendering-Pipelines)
 
 ### Physics & Simulation
 - [Spring Particle Systems](https://github.com/FINN-2005/Spring-Particles-Sim-V2)
