@@ -29,7 +29,7 @@ Modular engine focused on systems design, rendering, and simulation architecture
 
 ### Rendering & Graphics
 - [Software Pixel Renderer](https://github.com/FINN-2005/Software-Pixel-Renderer)
-- [Multiple rendering pipelines] (https://github.com/FINN-2005/Rendering-Pipelines)
+- [Multiple rendering pipelines](https://github.com/FINN-2005/Rendering-Pipelines)
 
 ### Physics & Simulation
 - [Spring Particle Systems](https://github.com/FINN-2005/Spring-Particles-Sim-V2)
@@ -73,7 +73,6 @@ Modular engine focused on systems design, rendering, and simulation architecture
 
 - [pygame_template](https://github.com/FINN-2005/pygame_template)
 - [GUI Engine](https://github.com/FINN-2005/GUI-Engine)
-- [Genetic Algorithm Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
 
 ---
 
@@ -81,7 +80,7 @@ Modular engine focused on systems design, rendering, and simulation architecture
 
 Selected tools and smaller builds:
 
-- [Whatsapp → JSON Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
+- [Whatsapp to JSON Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
 - [Attendance CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
 - [Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
 - [Binary Tree Visualisation](https://github.com/FINN-2005/Binary-Tree-Visualisation)
