@@ -1,97 +1,99 @@
 # Projects
-Stuff I made over the course of 3+ years.
+Systems, simulations, and low-level implementations built over 3+ years.
 
 ---
 
-## My Own Stuff
-Stuff I made to make my life easier, understand systems better, or reuse across projects.
+## Current Focus
 
-- [pygame_template](https://github.com/FINN-2005/pygame_template)
-- [matrices](https://github.com/FINN-2005/matrices)
-- [CorkBoard Planner](https://github.com/FINN-2005/CorkBoard-Planner) (ongoing)
+### Drone Swarm Simulation (In Progress)
+Simulation of autonomous drone coordination for light shows.
+
+- Image → formation mapping
+- Multi-agent movement system
+- Scalable swarm behavior (target: 1000+ drones)
+
+> Goal: Apply to drone/robotics companies using this as proof of capability.
 
 ---
 
-## Renderers
-Many pipelines I've made over the years.
+### FlexC (Engine in C) – In Progress
+Modular engine focused on systems design, rendering, and simulation architecture.
 
+- Custom GUI system
+- Modular components
+- Low-level control and performance focus
+
+---
+
+## Core Systems Work
+
+### Rendering & Graphics
 - [Software Pixel Renderer](https://github.com/FINN-2005/Software-Pixel-Renderer)
+- Multiple rendering pipelines (2D/3D, rasterization, ray casting)
+
+### Physics & Simulation
+- [Spring Particle Systems](https://github.com/FINN-2005/Spring-Particles-Sim-V2)
+- [2D Sand Simulation](https://github.com/FINN-2005/2D-Sand-Sim)
+- [Inverse Kinematics](https://github.com/FINN-2005/Inverse-Kinematics-Demo)
+- [CNC Toolpath Generator](https://github.com/FINN-2005/CNC-Toolpath-Gen)
+
+### Networking & Systems
+- Custom HTTP server (raw sockets)
+- [Multiplayer Tic Tac Toe](https://github.com/FINN-2005/Tic-Tac-Toe-Multiplayer)
+- Low-level protocol experiments
 
 ---
 
-## Games Collection
-A collection of small games I've built with Python and Pygame.
+## Mathematical & Algorithmic Exploration
 
-- [Flappy Bird Clone](https://github.com/FINN-2005/Flappy-Bird-Clone)
-- [Snake Clone](https://github.com/FINN-2005/Snake-Clone)
-- [Tower of Hanoi](https://github.com/FINN-2005/Tower-Of-Hanoi-Clone)
-- [Game of Life (V1)](https://github.com/FINN-2005/Game-Of-Life-V1)
-- [Game of Life (V2)](https://github.com/FINN-2005/Game-Of-Life-V2)
-- [Tic Tac Toe Multiplayer](https://github.com/FINN-2005/Tic-Tac-Toe-Multiplayer)
+- [Mandelbrot Simulation](https://github.com/FINN-2005/Mandelbrot-Sim)
+- [Wave Function Collapse](https://github.com/FINN-2005/Wave-Function-Collapse-Tiled)
+- [Perlin Noise](https://github.com/FINN-2005/Perlin-Noise)
+- [Dragon Curve](https://github.com/FINN-2005/Dragon-Curve-Sim)
 
 ---
 
-## Simulations
-Some simulations I made over the years (most inspired by **The Coding Train**).
-
-- [Pi Visualization Sim](https://github.com/FINN-2005/Pi-Visualization-Sim)
-- [Dragon Curve Sim](https://github.com/FINN-2005/Dragon-Curve-Sim)
-- [2D Sand Falling Sim](https://github.com/FINN-2005/2D-Sand-Sim)
-- [Spring Particle Sim (V1)](https://github.com/FINN-2005/Spring-Particles-Sim-V1)
-- [Spring Particle Sim (V2)](https://github.com/FINN-2005/Spring-Particles-Sim-V2)
-- [Spring-Particles-Physics-Collision](https://github.com/FINN-2005/Spring-Particles-Physics-Collision)
-- [CNC ToolPath Generator](https://github.com/FINN-2005/CNC-Toolpath-Gen)
-
-## Fun
-Stuff I Did To Alleviate Boredom / Stuff I Found Fascinating.
-
-- [Shorts Brain Rot Cool](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
-- [Turing Machine](https://github.com/FINN-2005/Turing-Machine)
-- [Stars](https://github.com/FINN-2005/Stars)
-- [Looper Pedal](https://github.com/FINN-2005/Looper-Pedal)
-
-## AI
-AI stuff I experimented with.
+## AI (From Scratch Implementations)
 
 - [Multi Layer Perceptron](https://github.com/FINN-2005/Multi-Layer-Perceptron)
-- [Multi Layer Perceptron (Better)](https://github.com/FINN-2005/Multi-Layer-Perceptron-Better)
-- [Agent Attempts](https://github.com/FINN-2005/Agent-Attempts)
-- [ChatBot CLI](https://github.com/FINN-2005/ChatBot-CLI)
-- [ChatBot TeleBot](https://github.com/FINN-2005/ChatBot-TeleBot)
 - [Bigram Model](https://github.com/FINN-2005/Bigram-Model)
+- Chatbot experiments (CLI / Telegram)
 
 ---
 
-## Math
-Projects to understand complex algorithms and functions.
+## Games & Experiments
 
-- [Perlin Noise](https://github.com/FINN-2005/Perlin-Noise)
-- [Inverse Kinematics Demo (Mediocre)](https://github.com/FINN-2005/Inverse-Kinematics-Demo)
-- [Mandelbrot Set Simulation](https://github.com/FINN-2005/Mandelbrot-Sim)
-- [Wave Function Collapse (Tiled)](https://github.com/FINN-2005/Wave-Function-Collapse-Tiled)
-- [Wave Function Collapse (Overlapping)](https://github.com/FINN-2005/Wave-Function-Collapse-Overlapping)
+- [Flappy Bird](https://github.com/FINN-2005/Flappy-Bird-Clone)
+- [Snake](https://github.com/FINN-2005/Snake-Clone)
+- [Game of Life](https://github.com/FINN-2005/Game-Of-Life-V2)
 
 ---
 
-## Utils
-Some one-off but useful stuff.
+## Frameworks & Tools
 
-- [Whatsapp Chat To Json Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
-- [Attendance-Manager-CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
-- [Song Downloader](https://github.com/FINN-2005/Song-Downloader)
-- [CivitAI Model Description Scraper](https://github.com/FINN-2005/CivitAI-Model-Description-Scraper)
-- [Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
-- [Password Generator](https://github.com/FINN-2005/Password-Generator)
-- [Drifting Pygame Rect](https://github.com/FINN-2005/Drifting-Pygame-Rect)
-- [2D Collisions](https://github.com/FINN-2005/2D-Collisions)
-- [Binary Tree Visualisation](https://github.com/FINN-2005/Binary-Tree-Visualisation)
-- [Drag And Drop](https://github.com/FINN-2005/Drag-And-Drop)
-
----
-
-## pygame_template V2 (in the making)
-Modules of Varying levels of completeness.
-
-- [Genetic Algorithm Training Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
-- [Multiplayer Minigames 2D](https://github.com/FINN-2005/Multiplayer-Minigames-2D)
+- [pygame_template](https://github.com/FINN-2005/pygame_template)
 - [GUI Engine](https://github.com/FINN-2005/GUI-Engine)
+- [Genetic Algorithm Environment](https://github.com/FINN-2005/Genetic-Algo-Training-Environment)
+
+---
+
+## Utilities
+
+Selected tools and smaller builds:
+
+- [Whatsapp → JSON Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
+- [Attendance CLI](https://github.com/FINN-2005/Attendance-Manager-CLI)
+- [Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
+- [Binary Tree Visualisation](https://github.com/FINN-2005/Binary-Tree-Visualisation)
+
+---
+
+## Notes
+
+Most projects are built from scratch to understand:
+
+- system design
+- performance trade-offs
+- internal mechanics of tools and engines
+
+This repository reflects exploration across systems, simulations, and low-level development.
