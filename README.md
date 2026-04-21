@@ -3,7 +3,7 @@ Stuff I made over the course of 3+ years.
 
 ---
 
-## My Own Stuff 🛠️
+## My Own Stuff
 Stuff I made to make my life easier, understand systems better, or reuse across projects.
 
 - [pygame_template](https://github.com/FINN-2005/pygame_template)
@@ -19,7 +19,7 @@ Many pipelines I've made over the years.
 
 ---
 
-## 🕹️ Games Collection
+## Games Collection
 A collection of small games I've built with Python and Pygame.
 
 - [Flappy Bird Clone](https://github.com/FINN-2005/Flappy-Bird-Clone)
