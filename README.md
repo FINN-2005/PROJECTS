@@ -1,3 +1,55 @@
 # Projects
 
+### Main
 [pygame_template](https://github.com/FINN-2005/pygame_template)
+[Password Generator](https://github.com/FINN-2005/Password-Generator)
+
+### Fun (type 1)
+[Software Rendering](https://github.com/FINN-2005/Rendering-Pipelines)
+[Software Rendering (more)](https://github.com/FINN-2005/Software-Pixel-Renderer)
+[Looper Pedal (may or may not work)](https://github.com/FINN-2005/Looper-Pedal)
+[Particle System (try 1)](https://github.com/FINN-2005/Spring-Particles-Sim-V1)
+[Particle System (application)](https://github.com/FINN-2005/Spring-Particles-Physics-Collision)
+[Particle System (try 2)](https://github.com/FINN-2005/Spring-Particles-Sim-V2)
+[Local Multiplayer Tic-Tac-Toe](https://github.com/FINN-2005/Tic-Tac-Toe-Multiplayer)
+[Wave Function Collapse (tiled)](https://github.com/FINN-2005/Wave-Function-Collapse-Tiled)
+[Wave Function Collapse (overlapping)](https://github.com/FINN-2005/Wave-Function-Collapse-Overlapping)
+[Turing Machine](https://github.com/FINN-2005/Turing-Machine)
+[CLI Attendance Manager](https://github.com/FINN-2005/Attendance-Manager-CLI)
+[Matrices in numpy](https://github.com/FINN-2005/matrices)
+[Custom CNC-like Toolpath Generation and Visuals](https://github.com/FINN-2005/CNC-Toolpath-Gen)
+[Inverse Kinematics Visuals](https://github.com/FINN-2005/Inverse-Kinematics-Demo)
+
+### Fun (type 2)
+[Snake Game](https://github.com/FINN-2005/Snake-Clone)
+[Phone Gyro Mouse](https://github.com/FINN-2005/Gyro-Mouse)
+[Civit AI Web Scraper](https://github.com/FINN-2005/CivitAI-Model-Description-Scraper)
+[Game Of Life (try 1)](https://github.com/FINN-2005/Game-Of-Life-V1)
+[Game Of Life (try 2)](https://github.com/FINN-2005/Game-Of-Life-V2)
+[Tower Of Hanoi](https://github.com/FINN-2005/Tower-Of-Hanoi-Clone)
+[Flappy Bird](https://github.com/FINN-2005/Flappy-Bird-Clone)
+
+### Fun (type 3)
+[Binary Tree Small Visual](https://github.com/FINN-2005/Binary-Tree-Visualisation)
+[Stars Visuals](https://github.com/FINN-2005/Stars)
+[Mandlebrot Sim](https://github.com/FINN-2005/Mandelbrot-Sim)
+[2D Simple Sand Sim](https://github.com/FINN-2005/2D-Sand-Sim)
+[2D Dragon Curve Sim](https://github.com/FINN-2005/Dragon-Curve-Sim)
+[2D Ball Bouncing in Rainbow Circle](https://github.com/FINN-2005/Shorts-Brain-Rot-Cool)
+[2D PI Visualisation (2 pendulums connected end to start, tip path never loops)](https://github.com/FINN-2005/Pi-Visualization-Sim)
+
+### AI
+[Telegram Local Chatbot](https://github.com/FINN-2005/ChatBot-TeleBot)
+[Terminal Local Chatbot](https://github.com/FINN-2005/ChatBot-CLI)
+[Bigram Model Pytorch](https://github.com/FINN-2005/Bigram-Model)
+[Multi Layer Perceptron Better](https://github.com/FINN-2005/Multi-Layer-Perceptron-Better)
+[Multi Layer Perceptron](https://github.com/FINN-2005/Multi-Layer-Perceptron)
+[Agent Attempts](https://github.com/FINN-2005/Agent-Attempts)
+
+### Utilities
+[Pygame Drag And Drop](https://github.com/FINN-2005/Drag-And-Drop)
+[Pygame Drifting Rect](https://github.com/FINN-2005/Drifting-Pygame-Rect)
+[Pygame 2D Collisions](https://github.com/FINN-2005/2D-Collisions)
+[Perlin Noise](https://github.com/FINN-2005/Perlin-Noise)
+[Song Downloader](https://github.com/FINN-2005/Song-Downloader)
+[Whatsapp Chat to JSON Parser](https://github.com/FINN-2005/Whatsapp-To-Json-Parser)
